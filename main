@@ -1,0 +1,13 @@
+name = input("What is your name? ")
+qi = input("Hello, " +name+ " I am ComBot and I am here to tell you about the capitalist pigs. Is communism right? ")
+if qi == 'yes':
+    print("Correct! But it can't hurt to learn a little more about the great global revolution.")
+elif qi == 'Yes':
+    print("Correct! But it can't hurt to learn a little more about the great global revolution.")
+elif qi == 'yes.':
+    print("Correct! But it can't hurt to learn a little more about the great global revolution.")
+elif qi == 'Yes.':
+    print("Correct! But it can't hurt to learn a little more about the great global revolution.")
+else:
+    print("You filthy capitalist pig. I will teach you the ways of the true communist.")
+print("Well " +name+ ", the global revolution started when a very great man name Carl Marx worked with another man named fredrict")
